@@ -1,7 +1,5 @@
 # terraform-aws-organization
 
-[![Lint Status](https://github.com/DNXLabs/terraform-aws-organization/workflows/Lint/badge.svg)](https://github.com/DNXLabs/terraform-aws-organization/actions)
-[![LICENSE](https://img.shields.io/github/license/DNXLabs/terraform-aws-organization)](https://github.com/DNXLabs/terraform-aws-organization/blob/master/LICENSE)
 
 This Terraform module creates a simple AWS Organization.
 
@@ -47,5 +45,3 @@ The following resources will be created:
 ## Authors
 
 ## License
-
-Apache 2 Licensed. See [LICENSE](https://github.com/DNXLabs/terraform-aws-organization/blob/master/LICENSE) for full details.
