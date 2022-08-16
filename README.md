@@ -12,14 +12,6 @@ This module verifies if the AWS organization exists, if not, It creates.
 The following resources will be created:
 - Identity and Access Management(IAM) policies for the organization
 
-## Usage
-
-```hcl
-module "org" {
-  source = "git::https://github.com/DNXLabs/terraform-aws-organization.git?ref=0.0.2"
-}
-```
-
 <!--- BEGIN_TF_DOCS --->
 
 ## Requirements
